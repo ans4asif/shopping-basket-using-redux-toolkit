@@ -126,7 +126,7 @@ color: rgb(62, 192, 62);
     left: 55%;
     }
   }
-  @media screen and (max-width: 411px) {
+  @media screen and (max-width: 480px) {
    
     .landing-img-container{
       margin-top: 13%;
@@ -135,11 +135,17 @@ color: rgb(62, 192, 62);
       width: 102%;
     }
   .shop-btn-box{
-    top: 47%;;
+    top: 51%;;
     left: 4%;
   }
   .landing-text{
-    top: 49%;
+    top: 55%;
+  }
+  .logo{
+    width: 122px;
+  }
+  .levis-link{
+    width: 102px;
   }
   }
 

@@ -16,7 +16,6 @@ export const Header = () => {
    
     return (
         
-            <div className="NavBar">
       <AppBar className="AppBar" position="fixed">
         <Toolbar>
           <Link to="/">
@@ -37,7 +36,7 @@ export const Header = () => {
           </Link>
         </Toolbar>
       </AppBar>
-    </div>
+    
     
     )
 }
